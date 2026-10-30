@@ -1,0 +1,17 @@
+# Artefatos derivados do APK — não redistribuir
+Duolingo.apk
+*.apk
+*.xapk
+*.apkm
+dex/
+decompiled/
+jadx_out/
+apktool_out/
+apktool_smali/
+
+# Ferramentas baixadas por fetch-tools.sh
+tools/
+
+# Logs
+*.log
+nohup.out
